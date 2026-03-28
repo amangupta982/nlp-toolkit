@@ -1,0 +1,17 @@
+# Core NLP
+nltk==3.8.1
+spacy==3.7.4
+
+# ML / classification
+scikit-learn==1.4.0
+numpy==1.26.4
+pandas==2.2.0
+
+# Graph (for graph-builder-nlp project)
+networkx==3.2.1
+
+# Visualization
+matplotlib==3.8.2
+
+# Utilities
+tqdm==4.66.1
