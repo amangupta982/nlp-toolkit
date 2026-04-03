@@ -168,4 +168,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). All PRs welcome — especially spaCy imp
 
 ## 📄 License
 
-[MIT](LICENSE) © 2025 Aman Gupta · [@amangupta982](https://github.com/amangupta982)
+[MIT](LICENSE) © 2026 Aman Gupta · [@amangupta982](https://github.com/amangupta982)
