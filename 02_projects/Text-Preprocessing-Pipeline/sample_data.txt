@@ -1,0 +1,3 @@
+Hello world!!! This is a Sample TEXT with numbers 123 and symbols #NLP.
+We are learning text pre-processing and normalizing today :)
+Let's see how NLTK works!
